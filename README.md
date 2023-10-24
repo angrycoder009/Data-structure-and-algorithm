@@ -1,5 +1,5 @@
 # Data-structure-and-algorithm
-Certainly! Here's a sample description for your GitHub repository named "Data Structure and Algorithm":
+
 
 ---
 
